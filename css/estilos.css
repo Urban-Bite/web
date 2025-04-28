@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.navbar	{
+	background-color: white!important;
+}
+
+.nav-link:hover {
+  	background-color:beige;
+}
+
+#img{
+	border-radius: 20px;
+	text-align: center;
+	width: 400px;
+}
+
+#img:hover{
+	
+	border-radius: 50px;
+	text-align: center;
+	width: 500px;
+}
+
+#logo{
+	
+	width: 150px;
+}
+h1{
+	text-align: center;
+	padding-top:10px;
+}
+
+h3{
+	text-align: center;
+	padding-top:10px;
+}
+
+#text{
+	padding-top:10px;
+	padding-left: 150px;
+	padding-right: 150px;	
+}
+.cont{
+	text-align: center;
+}
+
+#list{
+	text-align: left;
+	padding-left: 150px;
+	padding-right: 150px;
+	padding-top:10px;
+}
+
+.gen{
+	text-align: center;}
+
+#gen{
+padding: 30px;
+}
+
+#boton{
+background-color: 	blueviolet;
+	
+}
+footer {
+	
+	background-color: indigo;
+	color: white;
+	padding: 20px;
+	text-align: center;
+}
